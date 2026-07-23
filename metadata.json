@@ -1,0 +1,10 @@
+{
+  "name": "Geographical Information System (GIS)",
+  "description": "A comprehensive computerized geographical information system (GIS) suite with multi-layer cartography, spatial geoprocessing, attribute inspectors, elevation profiling, and AI spatial intelligence.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
